@@ -1,5 +1,24 @@
+h1 {
+  padding: 0%;
+  text-align: center;
+  justify-content: center;
+}
 body {
-  width: 100%;
+  width: 900px;
   height: 100%;
-  margin: 0;
+  text-align: center;
+  justify-content: center;
+}
+#featured-property {
+  width: 800px;
+  text-align: center;
+  justify-content: center;
+}
+h3 {
+  text-align: bottom;
+  justify-content: center;
+}
+p {
+  text-align: bottom;
+  justify-content: center;
 }
